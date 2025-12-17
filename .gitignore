@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Input raw data
+input/images/
+input/metadata/*.csv
+
+# Output generated data
+output/ocr_raw/
+output/structured/structured.json
+
+# OS
+.DS_Store

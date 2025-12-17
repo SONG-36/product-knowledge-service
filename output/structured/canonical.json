@@ -1,0 +1,3322 @@
+[
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "5v",
+    "value": "5v",
+    "unit": "V",
+    "source_file": "image001.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "4w",
+    "value": 4.0,
+    "unit": "W",
+    "source_file": "image001.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "12V",
+    "value": "12V",
+    "unit": "V",
+    "source_file": "image002.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "120W",
+    "value": 120.0,
+    "unit": "W",
+    "source_file": "image002.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "19*6.5*16.5cm",
+    "value": "19*6.5*16.5cm",
+    "unit": "cm",
+    "source_file": "image002.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "48V",
+    "value": "48V",
+    "unit": "V",
+    "source_file": "image003.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "120W",
+    "value": 120.0,
+    "unit": "W",
+    "source_file": "image003.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "170*95*45mm",
+    "value": "170*95*45mm",
+    "unit": "cm",
+    "source_file": "image003.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "12V",
+    "value": "12V",
+    "unit": "V",
+    "source_file": "image004.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "120W",
+    "value": 120.0,
+    "unit": "W",
+    "source_file": "image004.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "170*95*45mm",
+    "value": "170*95*45mm",
+    "unit": "cm",
+    "source_file": "image004.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "7.4V",
+    "value": "7.4V",
+    "unit": "V",
+    "source_file": "image005.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "120W",
+    "value": 120.0,
+    "unit": "W",
+    "source_file": "image005.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "85*48*180mm",
+    "value": "85*48*180mm",
+    "unit": "cm",
+    "source_file": "image005.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "7.4V",
+    "value": "7.4V",
+    "unit": "V",
+    "source_file": "image006.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "120W",
+    "value": 120.0,
+    "unit": "W",
+    "source_file": "image006.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "85*48*180mm",
+    "value": "85*48*180mm",
+    "unit": "cm",
+    "source_file": "image006.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "10*8*21cm",
+    "value": "10*8*21cm",
+    "unit": "cm",
+    "source_file": "image007.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V",
+    "value": "220V",
+    "unit": "V",
+    "source_file": "image008.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "130w",
+    "value": 130.0,
+    "unit": "W",
+    "source_file": "image008.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "138*105*192mm",
+    "value": "138*105*192mm",
+    "unit": "cm",
+    "source_file": "image008.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V",
+    "value": "220V",
+    "unit": "V",
+    "source_file": "image009.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "400W",
+    "value": 400.0,
+    "unit": "W",
+    "source_file": "image009.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "240*220*135mm",
+    "value": "240*220*135mm",
+    "unit": "cm",
+    "source_file": "image009.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "12V",
+    "value": "12V",
+    "unit": "V",
+    "source_file": "image010.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "120W",
+    "value": 120.0,
+    "unit": "W",
+    "source_file": "image010.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "9.5*5*19.3cm",
+    "value": "9.5*5*19.3cm",
+    "unit": "cm",
+    "source_file": "image010.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100-120V/220-240V",
+    "value": "100-120V/220-240V",
+    "unit": "V",
+    "source_file": "image011.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "420W",
+    "value": 420.0,
+    "unit": "W",
+    "source_file": "image011.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "60W(25W)",
+    "value": 60.0,
+    "unit": "W",
+    "source_file": "image012.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "60W",
+    "value": 60.0,
+    "unit": "W",
+    "source_file": "image013.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "25W",
+    "value": 25.0,
+    "unit": "W",
+    "source_file": "image014.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "25W",
+    "value": 25.0,
+    "unit": "W",
+    "source_file": "image015.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "12V",
+    "value": "12V",
+    "unit": "V",
+    "source_file": "image016.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "120W",
+    "value": 120.0,
+    "unit": "W",
+    "source_file": "image016.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "9.5*5*19.3cm",
+    "value": "9.5*5*19.3cm",
+    "unit": "cm",
+    "source_file": "image016.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "7.4V",
+    "value": "7.4V",
+    "unit": "V",
+    "source_file": "image017.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "80W",
+    "value": 80.0,
+    "unit": "W",
+    "source_file": "image017.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "9.3x5.4x12.7cm",
+    "value": "9.3x5.4x12.7cm",
+    "unit": "cm",
+    "source_file": "image017.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "7.4V",
+    "value": "7.4V",
+    "unit": "V",
+    "source_file": "image018.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "80W",
+    "value": 80.0,
+    "unit": "W",
+    "source_file": "image018.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "7.3*4.8*25cm",
+    "value": "7.3*4.8*25cm",
+    "unit": "cm",
+    "source_file": "image018.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "120W",
+    "value": 120.0,
+    "unit": "W",
+    "source_file": "image019.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "8*5.1*18.2cm",
+    "value": "8*5.1*18.2cm",
+    "unit": "cm",
+    "source_file": "image019.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "5v",
+    "value": "5v",
+    "unit": "V",
+    "source_file": "image020.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "80w",
+    "value": 80.0,
+    "unit": "W",
+    "source_file": "image020.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "8*5.1*18.2cm",
+    "value": "8*5.1*18.2cm",
+    "unit": "cm",
+    "source_file": "image020.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "7.4V",
+    "value": "7.4V",
+    "unit": "V",
+    "source_file": "image021.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "80W",
+    "value": 80.0,
+    "unit": "W",
+    "source_file": "image021.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "85*48*180mm",
+    "value": "85*48*180mm",
+    "unit": "cm",
+    "source_file": "image021.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100-120V/220-",
+    "value": "100-120V/220-",
+    "unit": "V",
+    "source_file": "image022.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "151210cm",
+    "value": "151210cm",
+    "unit": "cm",
+    "source_file": "image022.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "350W",
+    "value": 350.0,
+    "unit": "W",
+    "source_file": "image022.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "7.4V",
+    "value": "7.4V",
+    "unit": "V",
+    "source_file": "image023.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "80W",
+    "value": 80.0,
+    "unit": "W",
+    "source_file": "image023.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "7.3*4.8*17.3cm",
+    "value": "7.3*4.8*17.3cm",
+    "unit": "cm",
+    "source_file": "image023.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "2.6W",
+    "value": 2.6,
+    "unit": "W",
+    "source_file": "image024.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "8.2*4.2*16cm",
+    "value": "8.2*4.2*16cm",
+    "unit": "cm",
+    "source_file": "image024.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "12V",
+    "value": "12V",
+    "unit": "V",
+    "source_file": "image025.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "80W",
+    "value": 80.0,
+    "unit": "W",
+    "source_file": "image025.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "170*95*45mm",
+    "value": "170*95*45mm",
+    "unit": "cm",
+    "source_file": "image025.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "5V-5W",
+    "value": 5.0,
+    "unit": "W",
+    "source_file": "image026.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "26.5*12*3.7cm",
+    "value": "26.5*12*3.7cm",
+    "unit": "cm",
+    "source_file": "image026.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "5V-5W",
+    "value": 5.0,
+    "unit": "W",
+    "source_file": "image027.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "26.5*12*3.7cm",
+    "value": "26.5*12*3.7cm",
+    "unit": "cm",
+    "source_file": "image027.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "20W",
+    "value": 20.0,
+    "unit": "W",
+    "source_file": "image029.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "3.7V",
+    "value": "3.7V",
+    "unit": "V",
+    "source_file": "image030.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "8*8.6*18.2cm",
+    "value": "8*8.6*18.2cm",
+    "unit": "cm",
+    "source_file": "image031.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "3.7V",
+    "value": "3.7V",
+    "unit": "V",
+    "source_file": "image031.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "105*86*190mm",
+    "value": "105*86*190mm",
+    "unit": "cm",
+    "source_file": "image032.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "3.7V",
+    "value": "3.7V",
+    "unit": "V",
+    "source_file": "image032.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100V-120V/220-240V",
+    "value": "100V-120V/220-240V",
+    "unit": "V",
+    "source_file": "image033.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "420W",
+    "value": 420.0,
+    "unit": "W",
+    "source_file": "image033.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "12.5*17*10.5CM",
+    "value": "12.5*17*10.5CM",
+    "unit": "cm",
+    "source_file": "image033.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "7.4v",
+    "value": "7.4v",
+    "unit": "V",
+    "source_file": "image034.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "3.7V",
+    "value": "3.7V",
+    "unit": "V",
+    "source_file": "image035.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "3.7V",
+    "value": "3.7V",
+    "unit": "V",
+    "source_file": "image036.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "3.7V",
+    "value": "3.7V",
+    "unit": "V",
+    "source_file": "image037.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "3.7V",
+    "value": "3.7V",
+    "unit": "V",
+    "source_file": "image038.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "3.7V",
+    "value": "3.7V",
+    "unit": "V",
+    "source_file": "image039.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "40W",
+    "value": 40.0,
+    "unit": "W",
+    "source_file": "image040.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "3.7V",
+    "value": "3.7V",
+    "unit": "V",
+    "source_file": "image041.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "3.7V",
+    "value": "3.7V",
+    "unit": "V",
+    "source_file": "image042.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "99.8×88.15x57.53mm",
+    "value": "99.8×88.15x57.53mm",
+    "unit": "cm",
+    "source_file": "image043.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "115.05*53.87*80mm",
+    "value": "115.05*53.87*80mm",
+    "unit": "cm",
+    "source_file": "image043.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "85*102*48mm",
+    "value": "85*102*48mm",
+    "unit": "cm",
+    "source_file": "image043.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "",
+    "value": "",
+    "unit": "V",
+    "source_file": "image044.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image044.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image044.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "92x74x38mm",
+    "value": "92x74x38mm",
+    "unit": "cm",
+    "source_file": "image046.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "80x80x40mm",
+    "value": "80x80x40mm",
+    "unit": "cm",
+    "source_file": "image046.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "1027745mm",
+    "value": "1027745mm",
+    "unit": "cm",
+    "source_file": "image046.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "266*59*31mm",
+    "value": "266*59*31mm",
+    "unit": "cm",
+    "source_file": "image047.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image048.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image048.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "290*90*60mm",
+    "value": "290*90*60mm",
+    "unit": "cm",
+    "source_file": "image049.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "290*90*60mm",
+    "value": "290*90*60mm",
+    "unit": "cm",
+    "source_file": "image049.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "84*84°43mm",
+    "value": "84*84°43mm",
+    "unit": "cm",
+    "source_file": "image050.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "90*88*42mm",
+    "value": "90*88*42mm",
+    "unit": "cm",
+    "source_file": "image050.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "88*82*43.5mm",
+    "value": "88*82*43.5mm",
+    "unit": "cm",
+    "source_file": "image050.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1300W",
+    "value": 1300.0,
+    "unit": "W",
+    "source_file": "image051.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "110-240V",
+    "value": "110-240V",
+    "unit": "V",
+    "source_file": "image051.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1300W",
+    "value": 1300.0,
+    "unit": "W",
+    "source_file": "image052.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "110-240V",
+    "value": "110-240V",
+    "unit": "V",
+    "source_file": "image052.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1300W",
+    "value": 1300.0,
+    "unit": "W",
+    "source_file": "image053.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "110-240V",
+    "value": "110-240V",
+    "unit": "V",
+    "source_file": "image053.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "111*30*23",
+    "value": "111*30*23",
+    "unit": "cm",
+    "source_file": "image053.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100V-110V/220",
+    "value": "100V-110V/220",
+    "unit": "V",
+    "source_file": "image054.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1000w",
+    "value": 1000.0,
+    "unit": "W",
+    "source_file": "image054.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "18*11*38*20cm",
+    "value": "18*11*38*20cm",
+    "unit": "cm",
+    "source_file": "image054.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "7.6x7.6x20cm",
+    "value": "7.6x7.6x20cm",
+    "unit": "cm",
+    "source_file": "image055.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100V-110V/220",
+    "value": "100V-110V/220",
+    "unit": "V",
+    "source_file": "image056.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1000w",
+    "value": 1000.0,
+    "unit": "W",
+    "source_file": "image056.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "18*11*38*20cm",
+    "value": "18*11*38*20cm",
+    "unit": "cm",
+    "source_file": "image056.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100V-110V/220",
+    "value": "100V-110V/220",
+    "unit": "V",
+    "source_file": "image057.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1000w",
+    "value": 1000.0,
+    "unit": "W",
+    "source_file": "image057.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image058.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "70*70*130mm",
+    "value": "70*70*130mm",
+    "unit": "cm",
+    "source_file": "image059.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "2W",
+    "value": 2.0,
+    "unit": "W",
+    "source_file": "image059.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "DC5V",
+    "value": "DC5V",
+    "unit": "V",
+    "source_file": "image061.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "9W",
+    "value": 9.0,
+    "unit": "W",
+    "source_file": "image061.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "8*8*18cm",
+    "value": "8*8*18cm",
+    "unit": "cm",
+    "source_file": "image061.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "DC5V",
+    "value": "DC5V",
+    "unit": "V",
+    "source_file": "image062.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "直插款3W电池款9W",
+    "value": 3.0,
+    "unit": "W",
+    "source_file": "image062.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "8.5*8*19.5cm",
+    "value": "8.5*8*19.5cm",
+    "unit": "cm",
+    "source_file": "image062.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "DC5V",
+    "value": "DC5V",
+    "unit": "V",
+    "source_file": "image063.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "直插款3W电池款9W",
+    "value": 3.0,
+    "unit": "W",
+    "source_file": "image063.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "8.5*8*19.5cm",
+    "value": "8.5*8*19.5cm",
+    "unit": "cm",
+    "source_file": "image063.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "DC5V",
+    "value": "DC5V",
+    "unit": "V",
+    "source_file": "image064.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "直插款3W电池款9W",
+    "value": 3.0,
+    "unit": "W",
+    "source_file": "image064.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "8*8*18cm",
+    "value": "8*8*18cm",
+    "unit": "cm",
+    "source_file": "image064.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "132*70*70mm",
+    "value": "132*70*70mm",
+    "unit": "cm",
+    "source_file": "image065.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "165W",
+    "value": 165.0,
+    "unit": "W",
+    "source_file": "image066.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100-120V，220-240V，50/60HZ",
+    "value": "100-120V，220-240V，50/60HZ",
+    "unit": "V",
+    "source_file": "image066.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "8.5x8.5x8.8cm",
+    "value": "8.5x8.5x8.8cm",
+    "unit": "cm",
+    "source_file": "image067.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "132*70*70mm",
+    "value": "132*70*70mm",
+    "unit": "cm",
+    "source_file": "image068.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "132*70*70mm",
+    "value": "132*70*70mm",
+    "unit": "cm",
+    "source_file": "image069.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "165*60*95mm",
+    "value": "165*60*95mm",
+    "unit": "cm",
+    "source_file": "image070.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100V-110V/220",
+    "value": "100V-110V/220",
+    "unit": "V",
+    "source_file": "image071.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "160W",
+    "value": 160.0,
+    "unit": "W",
+    "source_file": "image071.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "18*11*38*20cm",
+    "value": "18*11*38*20cm",
+    "unit": "cm",
+    "source_file": "image071.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100V-230V",
+    "value": "100V-230V",
+    "unit": "V",
+    "source_file": "image072.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "12W",
+    "value": 12.0,
+    "unit": "W",
+    "source_file": "image072.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "成人款-19.7*3.2*6cm儿童13*5",
+    "value": "成人款-19.7*3.2*6cm儿童13*5",
+    "unit": "cm",
+    "source_file": "image072.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "7.4V",
+    "value": "7.4V",
+    "unit": "V",
+    "source_file": "image073.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "35W",
+    "value": 35.0,
+    "unit": "W",
+    "source_file": "image073.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "172×158×62mm",
+    "value": "172×158×62mm",
+    "unit": "cm",
+    "source_file": "image073.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "12V",
+    "value": "12V",
+    "unit": "V",
+    "source_file": "image074.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "35W",
+    "value": 35.0,
+    "unit": "W",
+    "source_file": "image074.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "65*65*255mm",
+    "value": "65*65*255mm",
+    "unit": "cm",
+    "source_file": "image074.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100V-110V/220",
+    "value": "100V-110V/220",
+    "unit": "V",
+    "source_file": "image075.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "26W",
+    "value": 26.0,
+    "unit": "W",
+    "source_file": "image075.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "30*30*7.8cm",
+    "value": "30*30*7.8cm",
+    "unit": "cm",
+    "source_file": "image075.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "14*11*17cm",
+    "value": "14*11*17cm",
+    "unit": "cm",
+    "source_file": "image077.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "17.6*17.6*27.2cm",
+    "value": "17.6*17.6*27.2cm",
+    "unit": "cm",
+    "source_file": "image078.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "11*8.5*13.8cm",
+    "value": "11*8.5*13.8cm",
+    "unit": "cm",
+    "source_file": "image079.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "12.5*12.5*23.5cm",
+    "value": "12.5*12.5*23.5cm",
+    "unit": "cm",
+    "source_file": "image081.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "11*1*11cm",
+    "value": "11*1*11cm",
+    "unit": "cm",
+    "source_file": "image082.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "13*5.3*15cm",
+    "value": "13*5.3*15cm",
+    "unit": "cm",
+    "source_file": "image083.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "7*7*17.5cm",
+    "value": "7*7*17.5cm",
+    "unit": "cm",
+    "source_file": "image084.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "9*12cm",
+    "value": "9*12cm",
+    "unit": "cm",
+    "source_file": "image085.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "12*12*18cm",
+    "value": "12*12*18cm",
+    "unit": "cm",
+    "source_file": "image086.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "14.9*11.9*17.5cm",
+    "value": "14.9*11.9*17.5cm",
+    "unit": "cm",
+    "source_file": "image087.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "17.6*17.6*27.2cm",
+    "value": "17.6*17.6*27.2cm",
+    "unit": "cm",
+    "source_file": "image088.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "11.5*9*16.5cm",
+    "value": "11.5*9*16.5cm",
+    "unit": "cm",
+    "source_file": "image089.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "14*19*25cm",
+    "value": "14*19*25cm",
+    "unit": "cm",
+    "source_file": "image090.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image108.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image109.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image109.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image110.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image110.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image111.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image111.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image112.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image112.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image114.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image114.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image115.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image115.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image116.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image116.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image117.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image117.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image118.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image118.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image119.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image119.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image120.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image120.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image121.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image121.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image122.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image122.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image123.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image123.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "",
+    "value": "",
+    "unit": "V",
+    "source_file": "image124.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image124.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image125.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image125.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image126.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image126.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image127.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image127.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image128.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image128.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image129.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image129.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image130.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image130.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image131.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image131.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image132.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image132.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image133.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image133.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image134.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image134.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image135.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "",
+    "value": "",
+    "unit": "V",
+    "source_file": "image135.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image136.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image136.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image137.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image137.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image138.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image138.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image139.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image139.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image140.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image140.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image141.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image141.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image142.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image142.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image143.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image143.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image144.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image144.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image145.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image145.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "30W",
+    "value": 30.0,
+    "unit": "W",
+    "source_file": "image146.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100-240V",
+    "value": "100-240V",
+    "unit": "V",
+    "source_file": "image146.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "34*16*94*124cm",
+    "value": "34*16*94*124cm",
+    "unit": "cm",
+    "source_file": "image146.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image147.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image147.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image148.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image148.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "24*21.5*90.5cm",
+    "value": "24*21.5*90.5cm",
+    "unit": "cm",
+    "source_file": "image150.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "8*8*26cm",
+    "value": "8*8*26cm",
+    "unit": "cm",
+    "source_file": "image153.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "19.5*18*5cm",
+    "value": "19.5*18*5cm",
+    "unit": "cm",
+    "source_file": "image155.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "19.5*18*5cm",
+    "value": "19.5*18*5cm",
+    "unit": "cm",
+    "source_file": "image156.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1000W",
+    "value": 1000.0,
+    "unit": "W",
+    "source_file": "image157.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100-240V",
+    "value": "100-240V",
+    "unit": "V",
+    "source_file": "image157.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "26.5*7*6.5cm",
+    "value": "26.5*7*6.5cm",
+    "unit": "cm",
+    "source_file": "image157.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "49.7*28.1*8.4cm",
+    "value": "49.7*28.1*8.4cm",
+    "unit": "cm",
+    "source_file": "image160.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image161.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image162.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "功率",
+    "raw_value": "",
+    "value": null,
+    "unit": "W",
+    "source_file": "image163.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "26.9*26.4*29.6cm",
+    "value": "26.9*26.4*29.6cm",
+    "unit": "cm",
+    "source_file": "image164.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "26.9*26.4*28.8cm",
+    "value": "26.9*26.4*28.8cm",
+    "unit": "cm",
+    "source_file": "image165.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "26.9*26.4*2.8cm",
+    "value": "26.9*26.4*2.8cm",
+    "unit": "cm",
+    "source_file": "image166.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "30.1*26.7*30.8cm",
+    "value": "30.1*26.7*30.8cm",
+    "unit": "cm",
+    "source_file": "image167.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "3.7V",
+    "value": "3.7V",
+    "unit": "V",
+    "source_file": "image168.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "13W",
+    "value": 13.0,
+    "unit": "W",
+    "source_file": "image168.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "10.8*13CM",
+    "value": "10.8*13CM",
+    "unit": "cm",
+    "source_file": "image168.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "30.1*26.7*30.8cm",
+    "value": "30.1*26.7*30.8cm",
+    "unit": "cm",
+    "source_file": "image169.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "28.5*22.2*28.5cm",
+    "value": "28.5*22.2*28.5cm",
+    "unit": "cm",
+    "source_file": "image170.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "28.5*22.2*27.0cm",
+    "value": "28.5*22.2*27.0cm",
+    "unit": "cm",
+    "source_file": "image171.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "28.5*22.2*28.5cm",
+    "value": "28.5*22.2*28.5cm",
+    "unit": "cm",
+    "source_file": "image172.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "33.2*27.0*26.3cm",
+    "value": "33.2*27.0*26.3cm",
+    "unit": "cm",
+    "source_file": "image173.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "33.2*27.0*27.4cm",
+    "value": "33.2*27.0*27.4cm",
+    "unit": "cm",
+    "source_file": "image174.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "32.0*24.8*30.3cm",
+    "value": "32.0*24.8*30.3cm",
+    "unit": "cm",
+    "source_file": "image175.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "32.0*24.8*30.6cmt",
+    "value": "32.0*24.8*30.6cmt",
+    "unit": "cm",
+    "source_file": "image176.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "31.7*24.8*30.6cm",
+    "value": "31.7*24.8*30.6cm",
+    "unit": "cm",
+    "source_file": "image177.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "31.7*24.8*30.6cm",
+    "value": "31.7*24.8*30.6cm",
+    "unit": "cm",
+    "source_file": "image178.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "7.4v",
+    "value": "7.4v",
+    "unit": "V",
+    "source_file": "image179.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "50w",
+    "value": 50.0,
+    "unit": "W",
+    "source_file": "image179.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "22*21*6cm",
+    "value": "22*21*6cm",
+    "unit": "cm",
+    "source_file": "image179.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "31.7*24.8*30.6cm",
+    "value": "31.7*24.8*30.6cm",
+    "unit": "cm",
+    "source_file": "image180.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "28.6*23.0*30.0cm",
+    "value": "28.6*23.0*30.0cm",
+    "unit": "cm",
+    "source_file": "image181.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "28.6*23.0*30.5cm",
+    "value": "28.6*23.0*30.5cm",
+    "unit": "cm",
+    "source_file": "image182.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "31.4*24.8*30.2cm",
+    "value": "31.4*24.8*30.2cm",
+    "unit": "cm",
+    "source_file": "image183.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "31.4*24.8*30.2cm",
+    "value": "31.4*24.8*30.2cm",
+    "unit": "cm",
+    "source_file": "image184.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "30.5*29.0*27.3cm",
+    "value": "30.5*29.0*27.3cm",
+    "unit": "cm",
+    "source_file": "image185.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "30.5*29.0*27.5cm",
+    "value": "30.5*29.0*27.5cm",
+    "unit": "cm",
+    "source_file": "image186.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "33.2*29.6*26.8cm",
+    "value": "33.2*29.6*26.8cm",
+    "unit": "cm",
+    "source_file": "image187.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "33.2*29.6*26.8cm",
+    "value": "33.2*29.6*26.8cm",
+    "unit": "cm",
+    "source_file": "image188.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "34.9*28.0*31.2cm",
+    "value": "34.9*28.0*31.2cm",
+    "unit": "cm",
+    "source_file": "image189.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100-120V/220-240V",
+    "value": "100-120V/220-240V",
+    "unit": "V",
+    "source_file": "image190.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "800W",
+    "value": 800.0,
+    "unit": "W",
+    "source_file": "image190.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "",
+    "value": "",
+    "unit": "cm",
+    "source_file": "image190.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "31.4*24.8*30.2cm",
+    "value": "31.4*24.8*30.2cm",
+    "unit": "cm",
+    "source_file": "image191.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "30.5*29.0*27.3cm",
+    "value": "30.5*29.0*27.3cm",
+    "unit": "cm",
+    "source_file": "image192.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "30.5*29.0*27.5cm",
+    "value": "30.5*29.0*27.5cm",
+    "unit": "cm",
+    "source_file": "image193.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "33.2*29.6*26.8cm",
+    "value": "33.2*29.6*26.8cm",
+    "unit": "cm",
+    "source_file": "image194.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "33.2*29.6*26.8cm",
+    "value": "33.2*29.6*26.8cm",
+    "unit": "cm",
+    "source_file": "image195.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "34.9*28.0*31.2cm",
+    "value": "34.9*28.0*31.2cm",
+    "unit": "cm",
+    "source_file": "image196.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "34.9*28.0*31.2cm",
+    "value": "34.9*28.0*31.2cm",
+    "unit": "cm",
+    "source_file": "image197.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "34.9*28.0*31.2cm",
+    "value": "34.9*28.0*31.2cm",
+    "unit": "cm",
+    "source_file": "image198.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100-120V/220-240V",
+    "value": "100-120V/220-240V",
+    "unit": "V",
+    "source_file": "image201.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1000W",
+    "value": 1000.0,
+    "unit": "W",
+    "source_file": "image201.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "32.3*27.3*10CM",
+    "value": "32.3*27.3*10CM",
+    "unit": "cm",
+    "source_file": "image201.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "230*301*239mm",
+    "value": "230*301*239mm",
+    "unit": "cm",
+    "source_file": "image203.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V~",
+    "value": "220V~",
+    "unit": "V",
+    "source_file": "image203.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1360W",
+    "value": 1360.0,
+    "unit": "W",
+    "source_file": "image203.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "230*301*239mm",
+    "value": "230*301*239mm",
+    "unit": "cm",
+    "source_file": "image204.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V~",
+    "value": "220V~",
+    "unit": "V",
+    "source_file": "image204.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1360W",
+    "value": 1360.0,
+    "unit": "W",
+    "source_file": "image204.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "340*330*295mm",
+    "value": "340*330*295mm",
+    "unit": "cm",
+    "source_file": "image205.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V~",
+    "value": "220V~",
+    "unit": "V",
+    "source_file": "image205.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1600W",
+    "value": 1600.0,
+    "unit": "W",
+    "source_file": "image205.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "277*250*330mm",
+    "value": "277*250*330mm",
+    "unit": "cm",
+    "source_file": "image206.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V~",
+    "value": "220V~",
+    "unit": "V",
+    "source_file": "image206.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1300W",
+    "value": 1300.0,
+    "unit": "W",
+    "source_file": "image206.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "277*250*330mm",
+    "value": "277*250*330mm",
+    "unit": "cm",
+    "source_file": "image207.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V~",
+    "value": "220V~",
+    "unit": "V",
+    "source_file": "image207.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1300W",
+    "value": 1300.0,
+    "unit": "W",
+    "source_file": "image207.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "277*250*330mm",
+    "value": "277*250*330mm",
+    "unit": "cm",
+    "source_file": "image208.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V~",
+    "value": "220V~",
+    "unit": "V",
+    "source_file": "image208.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1300W",
+    "value": 1300.0,
+    "unit": "W",
+    "source_file": "image208.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "277*250*330mm",
+    "value": "277*250*330mm",
+    "unit": "cm",
+    "source_file": "image209.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V~",
+    "value": "220V~",
+    "unit": "V",
+    "source_file": "image209.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1300W",
+    "value": 1300.0,
+    "unit": "W",
+    "source_file": "image209.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "400*400*380mm",
+    "value": "400*400*380mm",
+    "unit": "cm",
+    "source_file": "image210.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V~",
+    "value": "220V~",
+    "unit": "V",
+    "source_file": "image210.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1500W",
+    "value": 1500.0,
+    "unit": "W",
+    "source_file": "image210.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "285X315X345mm",
+    "value": "285X315X345mm",
+    "unit": "cm",
+    "source_file": "image211.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V~110V",
+    "value": "220V~110V",
+    "unit": "V",
+    "source_file": "image211.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1350W",
+    "value": 1350.0,
+    "unit": "W",
+    "source_file": "image211.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100-120V/220-240V",
+    "value": "100-120V/220-240V",
+    "unit": "V",
+    "source_file": "image212.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "900W",
+    "value": 900.0,
+    "unit": "W",
+    "source_file": "image212.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "31.5*14.2*28CM",
+    "value": "31.5*14.2*28CM",
+    "unit": "cm",
+    "source_file": "image212.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "270*260*30mm",
+    "value": "270*260*30mm",
+    "unit": "cm",
+    "source_file": "image213.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V～110V",
+    "value": "220V～110V",
+    "unit": "V",
+    "source_file": "image213.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1350W",
+    "value": 1350.0,
+    "unit": "W",
+    "source_file": "image213.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "30cm*25cm*30cm",
+    "value": "30cm*25cm*30cm",
+    "unit": "cm",
+    "source_file": "image214.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V～110V",
+    "value": "220V～110V",
+    "unit": "V",
+    "source_file": "image214.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1350W",
+    "value": 1350.0,
+    "unit": "W",
+    "source_file": "image214.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "30cm*25cm*30cm",
+    "value": "30cm*25cm*30cm",
+    "unit": "cm",
+    "source_file": "image215.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V～110V",
+    "value": "220V～110V",
+    "unit": "V",
+    "source_file": "image215.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1350W",
+    "value": 1350.0,
+    "unit": "W",
+    "source_file": "image215.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "26cm×22cm×29cm",
+    "value": "26cm×22cm×29cm",
+    "unit": "cm",
+    "source_file": "image216.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V~110V",
+    "value": "220V~110V",
+    "unit": "V",
+    "source_file": "image216.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "800W",
+    "value": 800.0,
+    "unit": "W",
+    "source_file": "image216.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "26cmx22cm×29cm",
+    "value": "26cmx22cm×29cm",
+    "unit": "cm",
+    "source_file": "image217.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V～110V",
+    "value": "220V～110V",
+    "unit": "V",
+    "source_file": "image217.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "800W",
+    "value": 800.0,
+    "unit": "W",
+    "source_file": "image217.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "26cm×22cm×29cm",
+    "value": "26cm×22cm×29cm",
+    "unit": "cm",
+    "source_file": "image218.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V~110V",
+    "value": "220V~110V",
+    "unit": "V",
+    "source_file": "image218.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "800W",
+    "value": 800.0,
+    "unit": "W",
+    "source_file": "image218.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "30cm×25cm×35cm",
+    "value": "30cm×25cm×35cm",
+    "unit": "cm",
+    "source_file": "image219.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V~",
+    "value": "220V~",
+    "unit": "V",
+    "source_file": "image219.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1450W",
+    "value": 1450.0,
+    "unit": "W",
+    "source_file": "image219.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "277*250*330mm",
+    "value": "277*250*330mm",
+    "unit": "cm",
+    "source_file": "image220.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V~",
+    "value": "220V~",
+    "unit": "V",
+    "source_file": "image220.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1450W",
+    "value": 1450.0,
+    "unit": "W",
+    "source_file": "image220.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1400W",
+    "value": 1400.0,
+    "unit": "W",
+    "source_file": "image221.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V~",
+    "value": "220V~",
+    "unit": "V",
+    "source_file": "image222.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1400W",
+    "value": 1400.0,
+    "unit": "W",
+    "source_file": "image222.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100-120V/220-240V",
+    "value": "100-120V/220-240V",
+    "unit": "V",
+    "source_file": "image223.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "700W",
+    "value": 700.0,
+    "unit": "W",
+    "source_file": "image223.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "18.2*23.5*8cm",
+    "value": "18.2*23.5*8cm",
+    "unit": "cm",
+    "source_file": "image223.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1400W",
+    "value": 1400.0,
+    "unit": "W",
+    "source_file": "image224.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1400W",
+    "value": 1400.0,
+    "unit": "W",
+    "source_file": "image225.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "310*290*375mm",
+    "value": "310*290*375mm",
+    "unit": "cm",
+    "source_file": "image226.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V~",
+    "value": "220V~",
+    "unit": "V",
+    "source_file": "image226.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1400W",
+    "value": 1400.0,
+    "unit": "W",
+    "source_file": "image226.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "329*329*308mm",
+    "value": "329*329*308mm",
+    "unit": "cm",
+    "source_file": "image227.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V~",
+    "value": "220V~",
+    "unit": "V",
+    "source_file": "image227.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1400W",
+    "value": 1400.0,
+    "unit": "W",
+    "source_file": "image227.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "280*280*300mm",
+    "value": "280*280*300mm",
+    "unit": "cm",
+    "source_file": "image228.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V~",
+    "value": "220V~",
+    "unit": "V",
+    "source_file": "image228.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1400W",
+    "value": 1400.0,
+    "unit": "W",
+    "source_file": "image228.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100-120V/220-240V",
+    "value": "100-120V/220-240V",
+    "unit": "V",
+    "source_file": "image234.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1200W",
+    "value": 1200.0,
+    "unit": "W",
+    "source_file": "image234.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "27.2*30.5*10.5CM",
+    "value": "27.2*30.5*10.5CM",
+    "unit": "cm",
+    "source_file": "image234.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100-120V/220-240V",
+    "value": "100-120V/220-240V",
+    "unit": "V",
+    "source_file": "image245.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "功率",
+    "raw_value": "600W",
+    "value": 600.0,
+    "unit": "W",
+    "source_file": "image245.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "21×16×9CM",
+    "value": "21×16×9CM",
+    "unit": "cm",
+    "source_file": "image245.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100-120V/220-240V",
+    "value": "100-120V/220-240V",
+    "unit": "V",
+    "source_file": "image256.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "700W",
+    "value": 700.0,
+    "unit": "W",
+    "source_file": "image256.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "19.6*24.7*11.5CM",
+    "value": "19.6*24.7*11.5CM",
+    "unit": "cm",
+    "source_file": "image256.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100-120V/220-240V",
+    "value": "100-120V/220-240V",
+    "unit": "V",
+    "source_file": "image267.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "750W",
+    "value": 750.0,
+    "unit": "W",
+    "source_file": "image267.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "19.6*24.7*11.5CM",
+    "value": "19.6*24.7*11.5CM",
+    "unit": "cm",
+    "source_file": "image267.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "8W",
+    "value": 8.0,
+    "unit": "W",
+    "source_file": "image271.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "15.5*5.5*16.5cm",
+    "value": "15.5*5.5*16.5cm",
+    "unit": "cm",
+    "source_file": "image271.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "3.7V",
+    "value": "3.7V",
+    "unit": "V",
+    "source_file": "image272.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1W",
+    "value": 1.0,
+    "unit": "W",
+    "source_file": "image272.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "14*14.5*6.3cm",
+    "value": "14*14.5*6.3cm",
+    "unit": "cm",
+    "source_file": "image272.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "1.2W",
+    "value": 1.2,
+    "unit": "W",
+    "source_file": "image273.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V",
+    "value": "220V",
+    "unit": "V",
+    "source_file": "image274.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "250W",
+    "value": 250.0,
+    "unit": "W",
+    "source_file": "image274.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "300*230*230mm",
+    "value": "300*230*230mm",
+    "unit": "cm",
+    "source_file": "image274.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "220V",
+    "value": "220V",
+    "unit": "V",
+    "source_file": "image275.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "2000W",
+    "value": 2000.0,
+    "unit": "W",
+    "source_file": "image275.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "170*130*250mm",
+    "value": "170*130*250mm",
+    "unit": "cm",
+    "source_file": "image275.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "800W",
+    "value": 800.0,
+    "unit": "W",
+    "source_file": "image276.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100-120V/220-240V",
+    "value": "100-120V/220-240V",
+    "unit": "V",
+    "source_file": "image278.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "750W",
+    "value": 750.0,
+    "unit": "W",
+    "source_file": "image278.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "55.5X34.5X53.5CM",
+    "value": "55.5X34.5X53.5CM",
+    "unit": "cm",
+    "source_file": "image278.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "功率",
+    "raw_value": "3W 3.7V",
+    "value": 3.0,
+    "unit": "W",
+    "source_file": "image279.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "120W",
+    "value": 120.0,
+    "unit": "W",
+    "source_file": "image280.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "60W(25W)",
+    "value": 60.0,
+    "unit": "W",
+    "source_file": "image281.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "60W(25W)",
+    "value": 60.0,
+    "unit": "W",
+    "source_file": "image282.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "25W",
+    "value": 25.0,
+    "unit": "W",
+    "source_file": "image283.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "60W",
+    "value": 60.0,
+    "unit": "W",
+    "source_file": "image284.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "25W",
+    "value": 25.0,
+    "unit": "W",
+    "source_file": "image285.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "3W",
+    "value": 3.0,
+    "unit": "W",
+    "source_file": "image286.png.txt"
+  },
+  {
+    "canonical_field": "dimensions",
+    "raw_field": "产品尺寸",
+    "raw_value": "35*55*150mm",
+    "value": "35*55*150mm",
+    "unit": "cm",
+    "source_file": "image286.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "3W",
+    "value": 3.0,
+    "unit": "W",
+    "source_file": "image287.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "3.7V",
+    "value": "3.7V",
+    "unit": "V",
+    "source_file": "image287.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "3.7V",
+    "value": "3.7V",
+    "unit": "V",
+    "source_file": "image288.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "3W",
+    "value": 3.0,
+    "unit": "W",
+    "source_file": "image288.png.txt"
+  },
+  {
+    "canonical_field": "voltage",
+    "raw_field": "额定电压",
+    "raw_value": "100-120V/220-240V",
+    "value": "100-120V/220-240V",
+    "unit": "V",
+    "source_file": "image289.png.txt"
+  },
+  {
+    "canonical_field": "power_watt",
+    "raw_field": "额定功率",
+    "raw_value": "420W",
+    "value": 420.0,
+    "unit": "W",
+    "source_file": "image289.png.txt"
+  }
+]

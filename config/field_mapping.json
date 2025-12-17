@@ -1,0 +1,22 @@
+{
+  "额定功率": {
+    "canonical": "power_watt",
+    "unit": "W",
+    "type": "number"
+  },
+  "功率": {
+    "canonical": "power_watt",
+    "unit": "W",
+    "type": "number"
+  },
+  "额定电压": {
+    "canonical": "voltage",
+    "unit": "V",
+    "type": "string"
+  },
+  "产品尺寸": {
+    "canonical": "dimensions",
+    "unit": "cm",
+    "type": "string"
+  }
+}
